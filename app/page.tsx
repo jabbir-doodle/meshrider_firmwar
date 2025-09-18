@@ -133,7 +133,7 @@ export default function MultiLanguagePage() {
                 className="mb-16"
               >
                 <a
-                  href="https://doodlelabs.sharepoint.com/:u:/s/DevelopmentLibrary/EXZ_u3gILpVKttZ89cUTorgBmnTk5iFPice1tw1i7WwSoQ?e=nFcYbx&xsdata=MDV8MDJ8fDM3ZTVmYWQzZWY4ZTRmNmY0NDg4MDhkZGY2OTQwZWMxfGNlOGI5NzY2NjllNTQyNzY5OGNmZGFjNTMyMTM0MTVmfDB8MHw2Mzg5Mzc4Mzc5MTk2MTgxODR8VW5rbm93bnhWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T2pCaU5EbGlZalJqTFRRNU0yTXROREUzTkMxaVpXVTVMVE16TTJSa1ltSXhOemsxWmw4ME9EaGtaREV4T0MxaU5tRXpMVFJoTldRdFlXRTBPQzAyTW1ReE56TmhNRFkxWVRSQWRXNXhMbWRpYkM1emNHRmpaWE12YldWemMyRm5aWE12TVRjMU9ERTROams1TURZNU9BPT18MTk4YmE3YmY0NjU3NDdjNGQ3ZmMwOGRkZjY5NDBlYzB8M2JkMjNjNGRkMWMzNDA2ZThmZDhhMTJjMTQyMmU4MmY%3D&sdata=U056QXR3VVRWeFpMWTdiRWdjZDVlSytpcEpWOHBOVUxhakxpRmtjUUFKTT0%3D&ovuser=ce8b9766-69e5-4276-98cf-dac53213415f%2Cjabbirbasha.parlapati%40doodlelabs.com"
+                  href="https://doodlelabs.sharepoint.com/:f:/s/DevelopmentLibrary/Ev8Y5G40cjxGmqVwOMVL9OMB6rN8Wtbsx6V4uhKEGf-ouA?e=fyDhWO"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group inline-flex items-center px-8 py-4 bg-gradient-to-r from-green-500 to-blue-500 text-white rounded-lg font-medium hover:shadow-xl hover:shadow-green-500/25 transition-all neon-glow"
@@ -293,7 +293,7 @@ export default function MultiLanguagePage() {
                 Join thousands of professionals worldwide using MeshRider for mission-critical communications
               </p>
               <a
-                href="https://doodlelabs.sharepoint.com/:u:/s/DevelopmentLibrary/EXZ_u3gILpVKttZ89cUTorgBmnTk5iFPice1tw1i7WwSoQ?e=nFcYbx&xsdata=MDV8MDJ8fDM3ZTVmYWQzZWY4ZTRmNmY0NDg4MDhkZGY2OTQwZWMxfGNlOGI5NzY2NjllNTQyNzY5OGNmZGFjNTMyMTM0MTVmfDB8MHw2Mzg5Mzc4Mzc5MTk2MTgxODR8VW5rbm93bnhWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T2pCaU5EbGlZalJqTFRRNU0yTXROREUzTkMxaVpXVTVMVE16TTJSa1ltSXhOemsxWmw4ME9EaGtaREV4T0MxaU5tRXpMVFJoTldRdFlXRTBPQzAyTW1ReE56TmhNRFkxWVRSQWRXNXhMbWRpYkM1emNHRmpaWE12YldWemMyRm5aWE12TVRjMU9ERTROams1TURZNU9BPT18MTk4YmE3YmY0NjU3NDdjNGQ3ZmMwOGRkZjY5NDBlYzB8M2JkMjNjNGRkMWMzNDA2ZThmZDhhMTJjMTQyMmU4MmY%3D&sdata=U056QXR3VVRWeFpMWTdiRWdjZDVlSytpcEpWOHBOVUxhakxpRmtjUUFKTT0%3D&ovuser=ce8b9766-69e5-4276-98cf-dac53213415f%2Cjabbirbasha.parlapati%40doodlelabs.com"
+                href="https://doodlelabs.sharepoint.com/:f:/s/DevelopmentLibrary/Ev8Y5G40cjxGmqVwOMVL9OMB6rN8Wtbsx6V4uhKEGf-ouA?e=fyDhWO"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center px-10 py-5 bg-gradient-to-r from-green-500 to-blue-500 text-white rounded-lg font-medium text-lg hover:shadow-xl hover:shadow-green-500/25 transition-all neon-glow"
