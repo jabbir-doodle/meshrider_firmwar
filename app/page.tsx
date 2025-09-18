@@ -121,7 +121,7 @@ export default function MultiLanguagePage() {
                 transition={{ delay: 0.6 }}
                 className="text-lg text-gray-500 mb-12 max-w-3xl mx-auto"
               >
-                Experience the full power of MeshRider AI in your native language.
+                Experience the full power of MeshRider Web in your native language.
                 Professional-grade mesh networking tools with localized interfaces and documentation.
               </motion.p>
 
@@ -231,7 +231,7 @@ export default function MultiLanguagePage() {
                     'Localized documentation and help files',
                     'Cultural adaptation for regional preferences',
                     'Enhanced accessibility features',
-                    'Same powerful AI automation capabilities'
+                    'Same powerful automation capabilities'
                   ].map((item, index) => (
                     <motion.div
                       key={index}
