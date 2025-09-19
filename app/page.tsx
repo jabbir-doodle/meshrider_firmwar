@@ -139,7 +139,7 @@ export default function MultiLanguagePage() {
                   className="group inline-flex items-center px-8 py-4 bg-gradient-to-r from-green-500 to-blue-500 text-white rounded-lg font-medium hover:shadow-xl hover:shadow-green-500/25 transition-all neon-glow"
                 >
                   <Download className="w-5 h-5 mr-2" />
-                  <span>Download Latest Firmware</span>
+                  <span>Download Latest Test Build Firmware</span>
                   <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
                 </a>
               </motion.div>
@@ -299,7 +299,7 @@ export default function MultiLanguagePage() {
                 className="group inline-flex items-center px-10 py-5 bg-gradient-to-r from-green-500 to-blue-500 text-white rounded-lg font-medium text-lg hover:shadow-xl hover:shadow-green-500/25 transition-all neon-glow"
               >
                 <Download className="w-6 h-6 mr-3" />
-                <span>Download Latest Firmware</span>
+                <span>Download Latest Test Build Firmware</span>
                 <ArrowRight className="w-5 h-5 ml-3 group-hover:translate-x-1 transition-transform" />
               </a>
             </motion.div>
