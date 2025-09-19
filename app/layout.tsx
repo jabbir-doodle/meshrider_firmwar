@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MeshRider Multilanguage Support - Ukrainian & German",
-  description: "Experience MeshRider AI in your native language. Now supporting Ukrainian and German with the same powerful mesh networking capabilities.",
+  title: "Mesh Rider Multilanguage Support - Ukrainian & German",
+  description: "Experience Mesh Rider AI in your native language. Now supporting Ukrainian and German with the same powerful mesh networking capabilities.",
 };
 
 export default function RootLayout({

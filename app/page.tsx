@@ -30,7 +30,7 @@ export default function MultiLanguagePage() {
     {
       icon: Globe,
       title: 'Global Reach',
-      description: 'Expanding MeshRider capabilities to serve users worldwide with native language support'
+      description: 'Expanding Mesh Rider capabilities to serve users worldwide with native language support'
     },
     {
       icon: Languages,
@@ -40,7 +40,7 @@ export default function MultiLanguagePage() {
     {
       icon: Zap,
       title: 'Same Performance',
-      description: 'All the power and reliability of MeshRider with localized user interface'
+      description: 'All the power and reliability of Mesh Rider with localized user interface'
     },
     {
       icon: Users,
@@ -89,7 +89,7 @@ export default function MultiLanguagePage() {
               >
                 <Image
                   src="/logo_doodle.png"
-                  alt="MeshRider Logo"
+                  alt="Mesh Rider Logo"
                   width={200}
                   height={200}
                   className="mx-auto"
@@ -103,7 +103,7 @@ export default function MultiLanguagePage() {
                 transition={{ delay: 0.4 }}
                 className="text-4xl md:text-6xl font-bold mb-6"
               >
-                <span className="gradient-text">MeshRider Goes Global</span>
+                <span className="gradient-text">Mesh Rider Goes Global</span>
               </motion.h1>
 
               <motion.p
@@ -121,7 +121,7 @@ export default function MultiLanguagePage() {
                 transition={{ delay: 0.6 }}
                 className="text-lg text-gray-500 mb-12 max-w-3xl mx-auto"
               >
-                Experience the full power of MeshRider Web in your native language.
+                Experience the full power of Mesh Rider Web in your native language.
                 Professional-grade mesh networking tools with localized interfaces and documentation.
               </motion.p>
 
@@ -255,7 +255,7 @@ export default function MultiLanguagePage() {
               >
                 <h3 className="text-2xl font-bold text-white mb-4">Download Now</h3>
                 <p className="text-gray-400 mb-6">
-                  Get the latest MeshRider firmware with full multilanguage support.
+                  Get the latest Mesh Rider firmware with full multilanguage support.
                   Compatible with all existing hardware configurations.
                 </p>
                 <div className="space-y-4">
@@ -287,10 +287,10 @@ export default function MultiLanguagePage() {
               className="glass-effect rounded-2xl p-12"
             >
               <h2 className="text-3xl md:text-4xl font-bold mb-6">
-                <span className="gradient-text">Ready to Experience MeshRider in Your Language?</span>
+                <span className="gradient-text">Ready to Experience Mesh Rider in Your Language?</span>
               </h2>
               <p className="text-xl text-gray-400 mb-8">
-                Join thousands of professionals worldwide using MeshRider for mission-critical communications
+                Join thousands of professionals worldwide using Mesh Rider for mission-critical communications
               </p>
               <a
                 href="https://doodlelabs.sharepoint.com/:f:/s/DevelopmentLibrary/Ev8Y5G40cjxGmqVwOMVL9OMB6rN8Wtbsx6V4uhKEGf-ouA?e=fyDhWO"
@@ -299,7 +299,7 @@ export default function MultiLanguagePage() {
                 className="group inline-flex items-center px-10 py-5 bg-gradient-to-r from-green-500 to-blue-500 text-white rounded-lg font-medium text-lg hover:shadow-xl hover:shadow-green-500/25 transition-all neon-glow"
               >
                 <Download className="w-6 h-6 mr-3" />
-                <span>Download Multilanguage Firmware</span>
+                <span>Download Latest Firmware</span>
                 <ArrowRight className="w-5 h-5 ml-3 group-hover:translate-x-1 transition-transform" />
               </a>
             </motion.div>

@@ -1,6 +1,6 @@
-# MeshRider Multilanguage Support
+# Mesh Rider Multilanguage Support
 
-A dedicated webpage announcing MeshRider's new multilanguage support for Ukrainian and German languages.
+A dedicated webpage announcing Mesh Rider's new multilanguage support for Ukrainian and German languages.
 
 ## Features
 
